@@ -74,6 +74,7 @@ header {
     justify-content: space-between;
     margin-top: 40px;
     align-items: top;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .col {
@@ -87,7 +88,8 @@ footer {
     align-items: center;
     margin-right: 10px;
     margin-top: 40px;
-    background-color: #e7e7e7; 
+    background-color: #e7e7e7;
+    font-family: Arial, Helvetica, sans-serif; 
 }
 footer .container {
     display: flex;
@@ -98,7 +100,8 @@ footer .container {
 #banner {
     display: flex; 
     justify-content: space-between;
-    align-items: center; 
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif; 
 }
 
 #banner .col {
