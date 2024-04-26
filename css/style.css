@@ -18,6 +18,8 @@ header {
 
 .menu {
     display: inline;
+    padding-left: 160px;
+    padding-top: 30px;
 }
 
 
@@ -30,6 +32,8 @@ header {
 
 .menu ul li {
     margin: auto calc(34px / 2);
+    float: right;
+   
     
 }
 
